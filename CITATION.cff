@@ -3,6 +3,8 @@ message: "If you use this software, please cite it as below, together with the a
 type: software
 title: "Federated Intrusion Detection under Delayed Labels: A Time-Ordered Study on ToN_IoT (code and results)"
 version: 1.0.0
+doi: 10.5281/zenodo.23774652
+date-released: 2026-10-29
 license: MIT
 abstract: >-
   Simulation code, configuration files and per-seed result logs accompanying the
@@ -18,6 +20,13 @@ authors:
     affiliation: "Department of Cyber Security, College of Information Technology, Amman Arab University, Amman, Jordan"
     orcid: "https://orcid.org/0009-0006-4965-0997"
 repository-code: "https://github.com/dirhussam/Federated-Intrusion-Detection-under-Delayed-Labels-A-Time-Ordered-Study-on-ToN_IoT"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23774652
+    description: Version 1.0.0
+  - type: doi
+    value: 10.5281/zenodo.23774651
+    description: All versions
 keywords:
   - federated learning
   - intrusion detection

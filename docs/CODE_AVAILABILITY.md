@@ -1,6 +1,6 @@
 # Code and data availability text for the paper
 
-Replace `XXXXXXX` with the Zenodo version DOI of v1.0.0.
+Version DOI of v1.0.0: 10.5281/zenodo.23774652. Concept DOI (all versions): 10.5281/zenodo.23774651.
 
 ## Sentence (LaTeX)
 
@@ -21,7 +21,7 @@ redistributed.
   title        = {Federated Intrusion Detection under Delayed Labels: A Time-Ordered Study on {ToN\_IoT} (code and results), version 1.0.0},
   year         = {2026},
   howpublished = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi          = {10.5281/zenodo.23774652},
+  url          = {https://doi.org/10.5281/zenodo.23774652}
 }
 ```

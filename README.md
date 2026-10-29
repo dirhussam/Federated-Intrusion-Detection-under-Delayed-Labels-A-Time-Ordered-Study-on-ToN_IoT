@@ -4,8 +4,10 @@ Code, configuration and result records for the paper of the same title,
 accepted at ICSIC 2026. All numbers and figures in the paper come from the
 scripts and records in this repository.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-<!-- Replace XXXXXXX with the Zenodo version DOI after the first release. -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23774652.svg)](https://doi.org/10.5281/zenodo.23774652)
+
+Archived on Zenodo. Version 1.0.0: [10.5281/zenodo.23774652](https://doi.org/10.5281/zenodo.23774652).
+All versions: [10.5281/zenodo.23774651](https://doi.org/10.5281/zenodo.23774651).
 
 ## Overview
 
@@ -138,8 +140,8 @@ Please cite the paper and this archive.
   year         = {2026},
   version      = {1.0.0},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXX},
-  howpublished = {\url{https://doi.org/10.5281/zenodo.XXXXXXX}}
+  doi          = {10.5281/zenodo.23774652},
+  howpublished = {\url{https://doi.org/10.5281/zenodo.23774652}}
 }
 ```
 

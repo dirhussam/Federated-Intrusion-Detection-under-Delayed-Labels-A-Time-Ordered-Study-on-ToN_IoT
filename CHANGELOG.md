@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0.0] - unreleased
+## [1.0.0] - 2026-10-29
 
 - Code, run records, tables and figures corresponding to the ICSIC 2026
   camera-ready version of the paper.

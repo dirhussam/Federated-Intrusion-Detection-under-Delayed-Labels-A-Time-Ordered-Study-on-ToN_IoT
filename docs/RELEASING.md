@@ -24,9 +24,11 @@ been enabled in Zenodo's GitHub settings.
 
 ## After the release
 
-1. Copy the **version DOI** of v1.0.0 from the Zenodo record.
-2. Replace `XXXXXXX` in `README.md` and in `docs/CODE_AVAILABILITY.md`.
-3. Add the DOI to `CITATION.cff` (`doi:` field) in a follow-up commit.
+1. Copy the **version DOI** from the Zenodo record.
+2. Put it in `README.md`, `docs/CODE_AVAILABILITY.md` and `CITATION.cff`.
+
+v1.0.0 (2026-10-29): version DOI 10.5281/zenodo.23774652, concept DOI
+10.5281/zenodo.23774651.
 
 Notes:
 
