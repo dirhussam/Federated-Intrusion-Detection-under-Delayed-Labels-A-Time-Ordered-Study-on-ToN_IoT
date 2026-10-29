@@ -13,9 +13,10 @@ abstract: >-
   seeds with paired statistical tests. Result files and figures are released
   under CC BY 4.0; the ToN_IoT dataset is not redistributed.
 authors:
-  - given-names: Hussam
-    family-names: "TODO-FAMILY-NAME"
-    affiliation: "TODO-AFFILIATION"
+  - given-names: Hussam Hussein
+    family-names: Abu Munshar
+    affiliation: "Department of Cyber Security, College of Information Technology, Amman Arab University, Amman, Jordan"
+    orcid: "https://orcid.org/0009-0006-4965-0997"
 repository-code: "https://github.com/dirhussam/Federated-Intrusion-Detection-under-Delayed-Labels-A-Time-Ordered-Study-on-ToN_IoT"
 keywords:
   - federated learning

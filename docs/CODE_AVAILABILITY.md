@@ -17,7 +17,7 @@ redistributed.
 
 ```bibtex
 @misc{fedids_code,
-  author       = {Hussam TODO-FAMILY-NAME},
+  author       = {Abu Munshar, Hussam Hussein},
   title        = {Federated Intrusion Detection under Delayed Labels: A Time-Ordered Study on {ToN\_IoT} (code and results), version 1.0.0},
   year         = {2026},
   howpublished = {Zenodo},

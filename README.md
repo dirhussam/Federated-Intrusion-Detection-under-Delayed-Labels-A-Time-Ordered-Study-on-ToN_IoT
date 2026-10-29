@@ -59,7 +59,7 @@ Please cite the paper and this archive.
 
 ```bibtex
 @misc{fedids_delayed_labels_code,
-  author       = {Hussam TODO-FAMILY-NAME},
+  author       = {Abu Munshar, Hussam Hussein},
   title        = {Federated Intrusion Detection under Delayed Labels: A Time-Ordered Study on ToN_IoT (code and results)},
   year         = {2026},
   version      = {1.0.0},
