@@ -5,15 +5,21 @@ the official page maintained by UNSW Canberra:
 
 https://research.unsw.edu.au/projects/toniot-datasets
 
-Place the files used by the experiments under this folder (or point the scripts
-to their location). Files placed here are excluded from version control by
+Data files placed in this folder are excluded from version control by
 `.gitignore`.
 
 | Item | Value |
 |---|---|
-| Subset / file(s) used | TODO: e.g. the exact CSV file(s) from the Network dataset |
-| Ordering column | TODO: timestamp column used to build the time-ordered stream |
-| SHA-256 of the file(s) used | TODO: `sha256sum <file>` |
+| Files used | All 23 files `Network_dataset_1.csv` … `Network_dataset_23.csv` in `TON_IoT datasets/Processed_datasets/Processed_Network_dataset` (22,339,021 records) |
+| Ordering | Stable sort by `ts` (Unix seconds, UTC); ties keep file and row order |
+| Subsampling | Constant type-wise rate, cap 60,000 records per attack type, all normal records kept, seed 0 (`scripts/preprocess.py`); 1,276,810 records out |
+| SHA-256 of each file | `ton_iot_network_file_profile.csv` and `ton_iot_dataset_manifest.md` |
+
+Files in this folder:
+
+- `ton_iot_dataset_manifest.md`, `ton_iot_network_file_profile.csv`: rows, time span, traffic types and SHA-256 of each raw file.
+- `stream_full.pkl.manifest.json`: what `preprocess.py` kept from each file, the rates and the output size.
+- `stream_stagger.pkl.info.json`: the client orders used by `make_staggered.py` for the staggered-drift stream.
 
 ## Terms of use (as stated by the dataset owners)
 

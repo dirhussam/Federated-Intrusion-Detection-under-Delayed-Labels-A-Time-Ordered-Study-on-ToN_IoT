@@ -1,0 +1,1 @@
+{"lr": 0.001, "delta": 0.01, "matched_period": {"0": 8, "1": 8, "5": 9}, "variant": {"lam": 0.01, "sched": 5}}

@@ -1,0 +1,39 @@
+# ToN_IoT processed network files: profile and checksums
+
+Source: UNSW Canberra ToN_IoT, folder `TON_IoT datasets/Processed_datasets/Processed_Network_dataset` (files dated Feb 8, 2024 on the UNSW SharePoint). Profiled on 2026-10-12.
+
+Total records: 22,339,021. Full-dataset type counts: scanning 7,140,161, normal 796,380, dos 3,375,328, injection 452,659, ddos 6,165,008, password 1,718,568, xss 2,108,944, backdoor 508,116, ransomware 72,805, mitm 1,052.
+
+Times are UTC from the `ts` column (Unix seconds). Files are contiguous in time: each file starts where the previous one ends. Rows inside a file are not strictly sorted by `ts`.
+
+| File | Rows | Start (UTC) | End (UTC) | Traffic types | SHA-256 |
+|---|---|---|---|---|---|
+| Network_dataset_1.csv | 1,000,000 | 2019-04-02 09:45:58 | 2019-04-23 13:23:00 | scanning 791321; normal 208679 | `37ea5238fcd2a7a18574b8e37e0427086c6c34d03a22f690256fc925946c0448` |
+| Network_dataset_2.csv | 1,000,000 | 2019-04-23 13:23:00 | 2019-04-23 13:50:14 | scanning 994283; normal 5717 | `63b70bb96a95499b477b890674b74cc207ccb638b68ea4cc3a3dea9a448772c1` |
+| Network_dataset_3.csv | 1,000,000 | 2019-04-23 13:50:14 | 2019-04-23 14:00:36 | scanning 997180; normal 2820 | `7c8710722f26679c5d795b60019975945a81730934c768083261e66e3b1ee366` |
+| Network_dataset_4.csv | 1,000,000 | 2019-04-23 14:00:36 | 2019-04-24 03:20:51 | scanning 993744; normal 6256 | `a20b2aed18fa474681f3614d35d4a23554272d6424cf6148596015440fb84a91` |
+| Network_dataset_5.csv | 1,000,000 | 2019-04-24 03:20:51 | 2019-04-24 03:31:36 | scanning 996343; normal 3657 | `2cfccfbc2816418b49ab8bf26bcd45f0a4796f634512f7e5dff9def7b601778e` |
+| Network_dataset_6.csv | 1,000,000 | 2019-04-24 03:31:36 | 2019-04-24 04:16:00 | scanning 986527; normal 13473 | `e8aa726d8551ffe59ea816bb1199455c0ebd53f44993a8bbec67ef0843bab229` |
+| Network_dataset_7.csv | 1,000,000 | 2019-04-24 04:16:00 | 2019-04-24 06:12:48 | scanning 992501; normal 7499 | `e5d3303520909b2e90e57199aa2159f8b2bef287b56502f453df2a6407ca39ab` |
+| Network_dataset_8.csv | 1,000,000 | 2019-04-24 06:12:48 | 2019-04-24 20:13:13 | dos 590432; scanning 388262; normal 21306 | `485c53e676016c730018ec51ef885efa584546f6930035c75876b5ba520814be` |
+| Network_dataset_9.csv | 1,000,000 | 2019-04-24 20:13:13 | 2019-04-24 22:31:44 | dos 975261; normal 24739 | `ed86e18cd03c6b9e1963964e400a04c4b7684356f2ca7d3acca172c942c4dfba` |
+| Network_dataset_10.csv | 1,000,000 | 2019-04-24 22:31:44 | 2019-04-25 00:50:26 | dos 969998; normal 30002 | `c33290654db525d0f926d4bc010d27f82c615e1ba87cff0c9e87b1cff673d2ad` |
+| Network_dataset_11.csv | 1,000,000 | 2019-04-25 00:50:26 | 2019-04-25 07:05:29 | dos 839637; injection 125195; normal 35168 | `ffd77ddb051852facd348ec189cf1204a01c0cc840da312c1a440fd0d8c287cf` |
+| Network_dataset_12.csv | 1,000,000 | 2019-04-25 07:05:29 | 2019-04-25 17:01:59 | ddos 639730; injection 327464; normal 32806 | `80fd7d6782d4acdd9c528085d38823e1036b530c551d3b646bc7d0eeb5298512` |
+| Network_dataset_13.csv | 1,000,000 | 2019-04-25 17:01:59 | 2019-04-25 19:59:08 | ddos 999083; normal 917 | `fc295ee26ebee93e3ab0b0e61ae7ab567fb86c1b67cbcd1d8025944c9e5ad24c` |
+| Network_dataset_14.csv | 1,000,000 | 2019-04-25 19:59:08 | 2019-04-25 22:06:21 | ddos 999417; normal 583 | `8eb759212e6b36c29478b5e45102814438b48e7929477a5bb8e734390cdc3ab0` |
+| Network_dataset_15.csv | 1,000,000 | 2019-04-25 22:06:21 | 2019-04-26 00:16:43 | ddos 998940; normal 1060 | `f7dded78b7670900cfa9c56e4b3df1c6c6f8ec3d82262c1b184af7f9d87e9f43` |
+| Network_dataset_16.csv | 1,000,000 | 2019-04-26 00:16:43 | 2019-04-26 02:30:34 | ddos 998109; normal 1891 | `415376cfbd6a4592b717b5e756ca5c1548d4491121e01fb0bab79555d8665cae` |
+| Network_dataset_17.csv | 1,000,000 | 2019-04-26 02:30:34 | 2019-04-26 05:27:11 | ddos 966289; normal 33711 | `d933a39088804258386441d83e4dec29ad14b97378b2a216f9919b0f5180143a` |
+| Network_dataset_18.csv | 1,000,000 | 2019-04-26 05:27:11 | 2019-04-26 17:54:05 | ddos 563440; password 387124; normal 49436 | `32d04d9cfefee40774e979c600ec322e2da6518bb6d8974999075007794c3934` |
+| Network_dataset_19.csv | 1,000,000 | 2019-04-26 17:54:05 | 2019-04-27 01:25:17 | password 987292; normal 12708 | `162203394dc41b3020bdc70b99e213f620fd66bacd333dbdf1cd5279adbd5f5d` |
+| Network_dataset_20.csv | 1,000,000 | 2019-04-27 01:25:17 | 2019-04-27 07:57:43 | xss 634766; password 344152; normal 21082 | `ca793a8ff6860c2a8b8e8b4bc72271bbbfc011b0b6c523765658949e1513fd0f` |
+| Network_dataset_21.csv | 1,000,000 | 2019-04-27 07:57:43 | 2019-04-27 11:06:41 | xss 985593; normal 14407 | `63fe9f2c91c48c0f30721eda03864675e1d87103a36cd61c19a3ac68d8ac077b` |
+| Network_dataset_22.csv | 1,000,000 | 2019-04-27 11:06:41 | 2019-04-28 21:05:32 | xss 488585; normal 234988; backdoor 203622; ransomware 72805 | `a1f6009f2be53bc1fba90f044d07ff5a9c5cfe4912b56690d8f02fb75aa335c0` |
+| Network_dataset_23.csv | 339,021 | 2019-04-28 21:05:32 | 2019-04-29 14:45:56 | backdoor 304494; normal 33475; mitm 1052 | `e89c54673961c2b260265cdd3f6c50355369f8a80e63c31999df04b0a757f213` |
+
+## Experimental stream used in the drift paper
+
+Type-wise constant-rate subsampling with cap 60,000 records per attack type, all normal records kept, seed 0 (`preprocess.py`). Output rows: 1,276,810.
+
+Rates: scanning 0.00840, normal 1.00000, dos 0.01778, injection 0.13255, ddos 0.00973, password 0.03491, xss 0.02845, backdoor 0.11808, ransomware 0.82412, mitm 1.00000.

@@ -5,8 +5,7 @@ been enabled in Zenodo's GitHub settings.
 
 ## Before the first release
 
-1. Replace every remaining `TODO` in `README.md` and `data/README.md`
-   (data file, requirements, commands).
+1. Check `README.md` and `CITATION.cff` once more.
 2. Validate the citation file: `pip install cffconvert && cffconvert --validate`.
 3. Make the repository public (Zenodo archives public repositories).
 

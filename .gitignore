@@ -1,6 +1,13 @@
-# Dataset files (ToN_IoT is not redistributed)
+# Dataset files (ToN_IoT is not redistributed); keep only documentation and manifests
 data/*
 !data/README.md
+!data/ton_iot_dataset_manifest.md
+!data/ton_iot_network_file_profile.csv
+!data/stream_full.pkl.manifest.json
+!data/stream_stagger.pkl.info.json
+
+# Per-record prediction arrays (regenerated with --pred-dir)
+results/pred/*.npy
 
 # Python
 __pycache__/

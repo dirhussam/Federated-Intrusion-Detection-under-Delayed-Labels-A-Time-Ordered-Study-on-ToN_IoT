@@ -1,0 +1,8 @@
+# Python 3.13. Only river was pinned in the original runs; the versions of the
+# other packages were not recorded.
+river==0.26.1
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib

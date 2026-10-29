@@ -1,0 +1,282 @@
+{
+  "files": [
+    {
+      "file": "Network_dataset_1.csv",
+      "rows": 1000000,
+      "kept": 215271,
+      "sha256": "37ea5238fcd2a7a18574b8e37e0427086c6c34d03a22f690256fc925946c0448",
+      "kept_types": {
+        "normal": 208679,
+        "scanning": 6592
+      }
+    },
+    {
+      "file": "Network_dataset_2.csv",
+      "rows": 1000000,
+      "kept": 14052,
+      "sha256": "63b70bb96a95499b477b890674b74cc207ccb638b68ea4cc3a3dea9a448772c1",
+      "kept_types": {
+        "scanning": 8335,
+        "normal": 5717
+      }
+    },
+    {
+      "file": "Network_dataset_3.csv",
+      "rows": 1000000,
+      "kept": 11114,
+      "sha256": "7c8710722f26679c5d795b60019975945a81730934c768083261e66e3b1ee366",
+      "kept_types": {
+        "scanning": 8294,
+        "normal": 2820
+      }
+    },
+    {
+      "file": "Network_dataset_4.csv",
+      "rows": 1000000,
+      "kept": 14618,
+      "sha256": "a20b2aed18fa474681f3614d35d4a23554272d6424cf6148596015440fb84a91",
+      "kept_types": {
+        "scanning": 8362,
+        "normal": 6256
+      }
+    },
+    {
+      "file": "Network_dataset_5.csv",
+      "rows": 1000000,
+      "kept": 12005,
+      "sha256": "2cfccfbc2816418b49ab8bf26bcd45f0a4796f634512f7e5dff9def7b601778e",
+      "kept_types": {
+        "scanning": 8348,
+        "normal": 3657
+      }
+    },
+    {
+      "file": "Network_dataset_6.csv",
+      "rows": 1000000,
+      "kept": 21724,
+      "sha256": "e8aa726d8551ffe59ea816bb1199455c0ebd53f44993a8bbec67ef0843bab229",
+      "kept_types": {
+        "normal": 13473,
+        "scanning": 8251
+      }
+    },
+    {
+      "file": "Network_dataset_7.csv",
+      "rows": 1000000,
+      "kept": 15840,
+      "sha256": "e5d3303520909b2e90e57199aa2159f8b2bef287b56502f453df2a6407ca39ab",
+      "kept_types": {
+        "scanning": 8341,
+        "normal": 7499
+      }
+    },
+    {
+      "file": "Network_dataset_8.csv",
+      "rows": 1000000,
+      "kept": 35220,
+      "sha256": "485c53e676016c730018ec51ef885efa584546f6930035c75876b5ba520814be",
+      "kept_types": {
+        "normal": 21306,
+        "dos": 10612,
+        "scanning": 3302
+      }
+    },
+    {
+      "file": "Network_dataset_9.csv",
+      "rows": 1000000,
+      "kept": 41933,
+      "sha256": "ed86e18cd03c6b9e1963964e400a04c4b7684356f2ca7d3acca172c942c4dfba",
+      "kept_types": {
+        "normal": 24739,
+        "dos": 17194
+      }
+    },
+    {
+      "file": "Network_dataset_10.csv",
+      "rows": 1000000,
+      "kept": 47272,
+      "sha256": "c33290654db525d0f926d4bc010d27f82c615e1ba87cff0c9e87b1cff673d2ad",
+      "kept_types": {
+        "normal": 30002,
+        "dos": 17270
+      }
+    },
+    {
+      "file": "Network_dataset_11.csv",
+      "rows": 1000000,
+      "kept": 66810,
+      "sha256": "ffd77ddb051852facd348ec189cf1204a01c0cc840da312c1a440fd0d8c287cf",
+      "kept_types": {
+        "normal": 35168,
+        "injection": 16648,
+        "dos": 14994
+      }
+    },
+    {
+      "file": "Network_dataset_12.csv",
+      "rows": 1000000,
+      "kept": 82425,
+      "sha256": "80fd7d6782d4acdd9c528085d38823e1036b530c551d3b646bc7d0eeb5298512",
+      "kept_types": {
+        "injection": 43398,
+        "normal": 32806,
+        "ddos": 6221
+      }
+    },
+    {
+      "file": "Network_dataset_13.csv",
+      "rows": 1000000,
+      "kept": 10526,
+      "sha256": "fc295ee26ebee93e3ab0b0e61ae7ab567fb86c1b67cbcd1d8025944c9e5ad24c",
+      "kept_types": {
+        "ddos": 9609,
+        "normal": 917
+      }
+    },
+    {
+      "file": "Network_dataset_14.csv",
+      "rows": 1000000,
+      "kept": 10405,
+      "sha256": "8eb759212e6b36c29478b5e45102814438b48e7929477a5bb8e734390cdc3ab0",
+      "kept_types": {
+        "ddos": 9822,
+        "normal": 583
+      }
+    },
+    {
+      "file": "Network_dataset_15.csv",
+      "rows": 1000000,
+      "kept": 10731,
+      "sha256": "f7dded78b7670900cfa9c56e4b3df1c6c6f8ec3d82262c1b184af7f9d87e9f43",
+      "kept_types": {
+        "ddos": 9671,
+        "normal": 1060
+      }
+    },
+    {
+      "file": "Network_dataset_16.csv",
+      "rows": 1000000,
+      "kept": 11669,
+      "sha256": "415376cfbd6a4592b717b5e756ca5c1548d4491121e01fb0bab79555d8665cae",
+      "kept_types": {
+        "ddos": 9778,
+        "normal": 1891
+      }
+    },
+    {
+      "file": "Network_dataset_17.csv",
+      "rows": 1000000,
+      "kept": 43249,
+      "sha256": "d933a39088804258386441d83e4dec29ad14b97378b2a216f9919b0f5180143a",
+      "kept_types": {
+        "normal": 33711,
+        "ddos": 9538
+      }
+    },
+    {
+      "file": "Network_dataset_18.csv",
+      "rows": 1000000,
+      "kept": 68469,
+      "sha256": "32d04d9cfefee40774e979c600ec322e2da6518bb6d8974999075007794c3934",
+      "kept_types": {
+        "normal": 49436,
+        "password": 13551,
+        "ddos": 5482
+      }
+    },
+    {
+      "file": "Network_dataset_19.csv",
+      "rows": 1000000,
+      "kept": 47070,
+      "sha256": "162203394dc41b3020bdc70b99e213f620fd66bacd333dbdf1cd5279adbd5f5d",
+      "kept_types": {
+        "password": 34362,
+        "normal": 12708
+      }
+    },
+    {
+      "file": "Network_dataset_20.csv",
+      "rows": 1000000,
+      "kept": 51460,
+      "sha256": "ca793a8ff6860c2a8b8e8b4bc72271bbbfc011b0b6c523765658949e1513fd0f",
+      "kept_types": {
+        "normal": 21082,
+        "xss": 18283,
+        "password": 12095
+      }
+    },
+    {
+      "file": "Network_dataset_21.csv",
+      "rows": 1000000,
+      "kept": 42232,
+      "sha256": "63fe9f2c91c48c0f30721eda03864675e1d87103a36cd61c19a3ac68d8ac077b",
+      "kept_types": {
+        "xss": 27825,
+        "normal": 14407
+      }
+    },
+    {
+      "file": "Network_dataset_22.csv",
+      "rows": 1000000,
+      "kept": 332458,
+      "sha256": "a1f6009f2be53bc1fba90f044d07ff5a9c5cfe4912b56690d8f02fb75aa335c0",
+      "kept_types": {
+        "normal": 234988,
+        "ransomware": 60030,
+        "backdoor": 23647,
+        "xss": 13793
+      }
+    },
+    {
+      "file": "Network_dataset_23.csv",
+      "rows": 339021,
+      "kept": 70257,
+      "sha256": "e89c54673961c2b260265cdd3f6c50355369f8a80e63c31999df04b0a757f213",
+      "kept_types": {
+        "backdoor": 35730,
+        "normal": 33475,
+        "mitm": 1052
+      }
+    }
+  ],
+  "cap": 60000,
+  "type_counts_full": {
+    "scanning": 7140161,
+    "normal": 796380,
+    "dos": 3375328,
+    "injection": 452659,
+    "ddos": 6165008,
+    "password": 1718568,
+    "xss": 2108944,
+    "backdoor": 508116,
+    "ransomware": 72805,
+    "mitm": 1052
+  },
+  "rates": {
+    "scanning": 0.008403171861250747,
+    "normal": 1.0,
+    "dos": 0.01777605020904635,
+    "injection": 0.13255010946429874,
+    "ddos": 0.009732347468162247,
+    "password": 0.03491278785593587,
+    "xss": 0.028450257569665197,
+    "backdoor": 0.11808327232364263,
+    "ransomware": 0.8241192225808667,
+    "mitm": 1.0
+  },
+  "normal_rate": 1.0,
+  "seed": 0,
+  "rows_out": 1276810,
+  "type_counts": {
+    "normal": 796380,
+    "ddos": 60121,
+    "dos": 60070,
+    "injection": 60046,
+    "ransomware": 60030,
+    "password": 60008,
+    "xss": 59901,
+    "scanning": 59825,
+    "backdoor": 59377,
+    "mitm": 1052
+  }
+}

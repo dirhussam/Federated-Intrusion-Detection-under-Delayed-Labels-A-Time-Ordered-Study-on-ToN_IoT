@@ -1,7 +1,7 @@
 # License for results and figures
 
-The contents of `results/` and `figures/` (result logs, summary tables and
-figures) are licensed under the Creative Commons Attribution 4.0 International
+The contents of `results/`, `figs/` and the manifests in `data/` (result
+logs, summary tables, figures and checksums) are licensed under the Creative Commons Attribution 4.0 International
 License (CC BY 4.0).
 
 Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
