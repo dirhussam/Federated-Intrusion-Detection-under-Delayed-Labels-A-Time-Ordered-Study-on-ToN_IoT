@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, together with the accompanying paper."
+type: software
+title: "Federated Intrusion Detection under Delayed Labels: A Time-Ordered Study on ToN_IoT (code and results)"
+version: 1.0.0
+license: MIT
+abstract: >-
+  Simulation code, configuration files and per-seed result logs accompanying the
+  paper "Federated Intrusion Detection under Delayed Labels: A Time-Ordered Study
+  on ToN_IoT" (ICSIC 2026). The study evaluates federated intrusion detection on
+  the time-ordered ToN_IoT stream with explicit label-release delays,
+  test-then-train evaluation and simulated gateway partitioning, over ten random
+  seeds with paired statistical tests. Result files and figures are released
+  under CC BY 4.0; the ToN_IoT dataset is not redistributed.
+authors:
+  - given-names: Hussam
+    family-names: "TODO-FAMILY-NAME"
+    affiliation: "TODO-AFFILIATION"
+repository-code: "https://github.com/dirhussam/Federated-Intrusion-Detection-under-Delayed-Labels-A-Time-Ordered-Study-on-ToN_IoT"
+keywords:
+  - federated learning
+  - intrusion detection
+  - delayed labels
+  - concept drift
+  - IoT security
+  - ToN_IoT
+  - test-then-train evaluation
